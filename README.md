@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![][hacks] ![][hacks] ![][hacks]
+
+![][hacks] ![][hacker] ![][hacks]
+
+![][hacks] ![][hacks] ![][hacks]
+
 ![](https://komarev.com/ghpvc/?username=EvanQuan&color=green)
 
 <!--
@@ -16,3 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[hacks]: images/HACKS.gif
+[hacker]: images/HACKER.gif
