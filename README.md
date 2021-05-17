@@ -1,12 +1,19 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=EvanQuan&color=green)
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=evanquan&hide_title=true&show_icons=true&theme=ayu-mirage&count_private=true&line_height=20&hide_rank=true" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanquan&hide_title=true&theme=ayu-mirage&langs_count=6&layout=compact" />
+</a>
+
 ![][hacks] ![][hacks] ![][hacks]
 
 ![][hacks] ![][hacker] ![][hacks]
 
 ![][hacks] ![][hacks] ![][hacks]
-
-![](https://komarev.com/ghpvc/?username=EvanQuan&color=green)
 
 <!--
 **EvanQuan/EvanQuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
